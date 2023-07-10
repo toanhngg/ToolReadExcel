@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fitthuctap12\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fitthuctap12\\.nuget\\packages"
+    ]
+  }
+}
